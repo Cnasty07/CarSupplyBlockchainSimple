@@ -1,0 +1,10 @@
+.env
+.github
+.vscode
+.snapshots
+*.db
+.pycache
+**/.pytest_cache
+**/__pycache__
+/data/* 
+/.alpackages

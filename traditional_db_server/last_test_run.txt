@@ -1,0 +1,44 @@
+[PERF] /traditional/transaction/upload: start=1746846784.296212, end=1746846784.305326, elapsed=0.009114s
+.[PERF] /traditional/transactions: start=1746846784.305694, end=1746846784.306768, elapsed=0.001074s
+.                                                                       [100%]
+2 passed in 0.36s
+[PERF] /traditional/transaction/upload: start=1746846791.149793, end=1746846791.158617, elapsed=0.008824s
+.[PERF] /traditional/transactions: start=1746846791.158958, end=1746846791.160041, elapsed=0.001083s
+.                                                                       [100%]
+2 passed in 0.34s
+[PERF] /traditional/transaction/upload: start=1746846791.610284, end=1746846791.619362, elapsed=0.009078s
+.[PERF] /traditional/transactions: start=1746846791.619706, end=1746846791.620706, elapsed=0.001000s
+.                                                                       [100%]
+2 passed in 0.31s
+[PERF] /traditional/transaction/upload: start=1746846792.083260, end=1746846792.095163, elapsed=0.011903s
+.[PERF] /traditional/transactions: start=1746846792.095634, end=1746846792.097137, elapsed=0.001503s
+.                                                                       [100%]
+2 passed in 0.32s
+[PERF] /traditional/transaction/upload: start=1746846792.554927, end=1746846792.563830, elapsed=0.008903s
+.[PERF] /traditional/transactions: start=1746846792.564155, end=1746846792.565180, elapsed=0.001025s
+.                                                                       [100%]
+2 passed in 0.30s
+[PERF] /traditional/transaction/upload: start=1746846793.029199, end=1746846793.038980, elapsed=0.009781s
+.[PERF] /traditional/transactions: start=1746846793.039371, end=1746846793.040518, elapsed=0.001147s
+.                                                                       [100%]
+2 passed in 0.31s
+[PERF] /traditional/transaction/upload: start=1746846793.579057, end=1746846793.588475, elapsed=0.009418s
+.[PERF] /traditional/transactions: start=1746846793.588883, end=1746846793.590125, elapsed=0.001242s
+.                                                                       [100%]
+2 passed in 0.39s
+[PERF] /traditional/transaction/upload: start=1746846794.075157, end=1746846794.085931, elapsed=0.010774s
+.[PERF] /traditional/transactions: start=1746846794.086404, end=1746846794.087682, elapsed=0.001278s
+.                                                                       [100%]
+2 passed in 0.32s
+[PERF] /traditional/transaction/upload: start=1746846794.540520, end=1746846794.550412, elapsed=0.009892s
+.[PERF] /traditional/transactions: start=1746846794.550751, end=1746846794.551818, elapsed=0.001067s
+.                                                                       [100%]
+2 passed in 0.30s
+[PERF] /traditional/transaction/upload: start=1746846794.985101, end=1746846794.993285, elapsed=0.008184s
+.[PERF] /traditional/transactions: start=1746846794.993624, end=1746846794.994634, elapsed=0.001010s
+.                                                                       [100%]
+2 passed in 0.30s
+[PERF] /traditional/transaction/upload: start=1746846795.448929, end=1746846795.458658, elapsed=0.009729s
+.[PERF] /traditional/transactions: start=1746846795.459151, end=1746846795.460305, elapsed=0.001154s
+.                                                                       [100%]
+2 passed in 0.31s

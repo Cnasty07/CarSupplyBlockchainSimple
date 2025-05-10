@@ -1,0 +1,130 @@
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847279.503593, end=1746847279.510562, elapsed=0.006969s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847279.522669, end=1746847279.528879, elapsed=0.006210s
+[PERF] /add_block: start=1746847279.528895, end=1746847279.530681, elapsed=0.001786s
+.[PERF] /validate: start=1746847279.530984, end=1746847279.531782, elapsed=0.000798s
+.[PERF] /block/0: start=1746847279.532028, end=1746847279.532773, elapsed=0.000745s
+.[PERF] /powerbi/all_blocks: start=1746847279.532996, end=1746847279.534434, elapsed=0.001438s
+.[PERF] /powerbi/save_csv: start=1746847279.534690, end=1746847279.536311, elapsed=0.001621s
+.                                                                   [100%]
+6 passed in 0.55s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847284.522011, end=1746847284.527820, elapsed=0.005809s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847284.528912, end=1746847284.532288, elapsed=0.003376s
+[PERF] /add_block: start=1746847284.532301, end=1746847284.534127, elapsed=0.001826s
+.[PERF] /validate: start=1746847284.534472, end=1746847284.535455, elapsed=0.000983s
+.[PERF] /block/0: start=1746847284.535703, end=1746847284.536475, elapsed=0.000772s
+.[PERF] /powerbi/all_blocks: start=1746847284.536726, end=1746847284.538126, elapsed=0.001400s
+.[PERF] /powerbi/save_csv: start=1746847284.538360, end=1746847284.539997, elapsed=0.001637s
+.                                                                   [100%]
+6 passed in 0.32s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847284.998739, end=1746847285.004244, elapsed=0.005505s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847285.005686, end=1746847285.010407, elapsed=0.004721s
+[PERF] /add_block: start=1746847285.010425, end=1746847285.012331, elapsed=0.001906s
+.[PERF] /validate: start=1746847285.012670, end=1746847285.013666, elapsed=0.000996s
+.[PERF] /block/0: start=1746847285.013960, end=1746847285.014758, elapsed=0.000798s
+.[PERF] /powerbi/all_blocks: start=1746847285.014982, end=1746847285.016484, elapsed=0.001502s
+.[PERF] /powerbi/save_csv: start=1746847285.016802, end=1746847285.018561, elapsed=0.001759s
+.                                                                   [100%]
+6 passed in 0.32s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847285.570670, end=1746847285.576357, elapsed=0.005687s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847285.577578, end=1746847285.581724, elapsed=0.004146s
+[PERF] /add_block: start=1746847285.581743, end=1746847285.583787, elapsed=0.002044s
+.[PERF] /validate: start=1746847285.584137, end=1746847285.584992, elapsed=0.000855s
+.[PERF] /block/0: start=1746847285.585222, end=1746847285.586284, elapsed=0.001062s
+.[PERF] /powerbi/all_blocks: start=1746847285.587013, end=1746847285.589008, elapsed=0.001995s
+.[PERF] /powerbi/save_csv: start=1746847285.589340, end=1746847285.591102, elapsed=0.001762s
+.                                                                   [100%]
+6 passed in 0.38s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847286.114613, end=1746847286.122000, elapsed=0.007387s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847286.123821, end=1746847286.131136, elapsed=0.007315s
+[PERF] /add_block: start=1746847286.131162, end=1746847286.134666, elapsed=0.003504s
+.[PERF] /validate: start=1746847286.135606, end=1746847286.137679, elapsed=0.002073s
+.[PERF] /block/0: start=1746847286.138035, end=1746847286.139066, elapsed=0.001031s
+.[PERF] /powerbi/all_blocks: start=1746847286.139319, end=1746847286.140954, elapsed=0.001635s
+.[PERF] /powerbi/save_csv: start=1746847286.141236, end=1746847286.143077, elapsed=0.001841s
+.                                                                   [100%]
+6 passed in 0.36s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847286.719893, end=1746847286.726030, elapsed=0.006137s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847286.727163, end=1746847286.730560, elapsed=0.003397s
+[PERF] /add_block: start=1746847286.730572, end=1746847286.732137, elapsed=0.001565s
+.[PERF] /validate: start=1746847286.732437, end=1746847286.733300, elapsed=0.000863s
+.[PERF] /block/0: start=1746847286.733502, end=1746847286.734216, elapsed=0.000714s
+.[PERF] /powerbi/all_blocks: start=1746847286.734488, end=1746847286.736141, elapsed=0.001653s
+.[PERF] /powerbi/save_csv: start=1746847286.736451, end=1746847286.738132, elapsed=0.001681s
+.                                                                   [100%]
+6 passed in 0.42s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847287.196469, end=1746847287.203046, elapsed=0.006577s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847287.204427, end=1746847287.208424, elapsed=0.003997s
+[PERF] /add_block: start=1746847287.208440, end=1746847287.210575, elapsed=0.002135s
+.[PERF] /validate: start=1746847287.210920, end=1746847287.211817, elapsed=0.000897s
+.[PERF] /block/0: start=1746847287.212064, end=1746847287.212820, elapsed=0.000756s
+.[PERF] /powerbi/all_blocks: start=1746847287.213054, end=1746847287.214723, elapsed=0.001669s
+.[PERF] /powerbi/save_csv: start=1746847287.215079, end=1746847287.216943, elapsed=0.001864s
+.                                                                   [100%]
+6 passed in 0.32s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847287.694830, end=1746847287.700871, elapsed=0.006041s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847287.702057, end=1746847287.706661, elapsed=0.004604s
+[PERF] /add_block: start=1746847287.706682, end=1746847287.708579, elapsed=0.001897s
+.[PERF] /validate: start=1746847287.708912, end=1746847287.709771, elapsed=0.000859s
+.[PERF] /block/0: start=1746847287.710003, end=1746847287.710782, elapsed=0.000779s
+.[PERF] /powerbi/all_blocks: start=1746847287.711049, end=1746847287.712628, elapsed=0.001579s
+.[PERF] /powerbi/save_csv: start=1746847287.712899, end=1746847287.714637, elapsed=0.001738s
+.                                                                   [100%]
+6 passed in 0.32s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847288.229820, end=1746847288.237102, elapsed=0.007282s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847288.238644, end=1746847288.243837, elapsed=0.005193s
+[PERF] /add_block: start=1746847288.243856, end=1746847288.245774, elapsed=0.001918s
+.[PERF] /validate: start=1746847288.246131, end=1746847288.247238, elapsed=0.001107s
+.[PERF] /block/0: start=1746847288.247509, end=1746847288.248373, elapsed=0.000864s
+.[PERF] /powerbi/all_blocks: start=1746847288.248630, end=1746847288.250368, elapsed=0.001738s
+.[PERF] /powerbi/save_csv: start=1746847288.250704, end=1746847288.252680, elapsed=0.001976s
+.                                                                   [100%]
+6 passed in 0.36s
+[TEST] Your API key for testing is: xNnSP-fvk-4hFoABvScRcQ
+[PERF] /chain: start=1746847288.742280, end=1746847288.747727, elapsed=0.005447s
+.DataFrame loaded:    foo  amount
+0  bar     123
+1  baz     456
+[PERF] /transaction/upload: start=1746847288.749068, end=1746847288.752551, elapsed=0.003483s
+[PERF] /add_block: start=1746847288.752563, end=1746847288.754126, elapsed=0.001563s
+.[PERF] /validate: start=1746847288.754415, end=1746847288.755255, elapsed=0.000840s
+.[PERF] /block/0: start=1746847288.755486, end=1746847288.756222, elapsed=0.000736s
+.[PERF] /powerbi/all_blocks: start=1746847288.756424, end=1746847288.757905, elapsed=0.001481s
+.[PERF] /powerbi/save_csv: start=1746847288.758167, end=1746847288.759695, elapsed=0.001528s
+.                                                                   [100%]
+6 passed in 0.33s
